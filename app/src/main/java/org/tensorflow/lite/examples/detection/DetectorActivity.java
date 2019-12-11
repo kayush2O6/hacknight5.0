@@ -260,7 +260,7 @@ public class DetectorActivity extends CameraActivity implements OnImageAvailable
             .url(url)
             .post(body)
             .header("Accept", "application/json")
-            .header("Ocp-Apim-Subscription-Key","a6b93862bf814b89a0e0117c6ad6e038")
+            .header("Ocp-Apim-Subscription-Key","<your_key_here>")
             .header("Content-Type", "application/octet-stream")
             .build();
 
