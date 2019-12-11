@@ -2,9 +2,9 @@
 ---
 
 
-![Demo](Video.mp4)
+[Demo](Video.mp4)
 
-![Slides](hacknight0.5.pdf)
+[Slides](hacknight0.5.pdf)
 
 ---
 ## Problem statement:
