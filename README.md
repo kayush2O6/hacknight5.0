@@ -1,5 +1,12 @@
 # DeepSpecs
 ---
+
+
+![Demo](Video.mp4)
+
+![Slides](hacknight0.5.pdf)
+
+---
 ## Problem statement:
 
 People with blindness have difficulties identifying what is in around without touching or asking someone. This creates challenges, especially when there's no one to assist or if the object in front of them is not to be touched(hot tea or knife etc.). Solution should understand the requirements of the users and building an image recognition system to help them navigate.
